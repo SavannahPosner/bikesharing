@@ -63,4 +63,4 @@ This data is interesting as there isn't much disparity between customers who are
 
 
 ## Summary 
-This data indicates that the most common types of consumer of this product are men, people who are of working age, and people who are subscribed. While Saturday and Sunday are still popular dates for people to use a Citi Bike more frequently during the week between the times of 5:00 am and 9:00 am and 5:00 pm 9:00 pm. This can act as an indicator that people could be using Citi Bike as a primary source of transportation for work. 
+This data indicates that the most common types of consumer of this product are men, people who are of working age, and people who are subscribed. While Saturday and Sunday are still popular dates for people to use a Citi Bike, people most frequently use Citi Bike during the week between the times of 5:00 am and 9:00 am and 5:00 pm 9:00 pm. This can act as an indicator that people could be using Citi Bike as a primary source of transportation for work. 
