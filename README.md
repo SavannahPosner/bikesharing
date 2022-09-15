@@ -1,6 +1,7 @@
 # Citi Bike Analysis 
-## Overview
+[link to dashboard](https://public.tableau.com/app/profile/savannah1114/viz/NYCCitibikeanalysis_16628497923600/CityBikeAnalysis?publish=yes)
 
+## Overview
 The purpose of this analysis is to provide visuals of a valuable data to attract stakeholders. This is done by breaking down the characteristics of the recorded variables and establishing patterns. 
 
 ## Results
