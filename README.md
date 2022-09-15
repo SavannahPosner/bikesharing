@@ -45,6 +45,8 @@ The data primarily confirms the previous pattern across gender types.
 
 From this data the viewer can see that those who possess a subscription seem to be using the product regularly. 
 
+###### Additionally, user type based on age and user type based on gender could provide more insight as to who is using the product.
+
 #### User Type Based on Age 
 ![](https://raw.githubusercontent.com/SavannahPosner/bikesharing/main/Images/User_Type_Based_On_Age.png)
 
